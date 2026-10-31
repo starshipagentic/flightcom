@@ -1,2 +1,3 @@
 # flightcom
-Placeholder repo for the flightcom project
+
+Placeholder package. The `flightcom` name is reserved for a future project.
